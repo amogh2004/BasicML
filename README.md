@@ -12,3 +12,6 @@ Useful for hiring considering the factors if the candidate was employed before, 
 
 #### Similar Movies
 Finding all similar movies from a data-set.
+
+#### Movie Recommendations
+Make movie recommendations to a person, based on the movie watched priorly by that person, using Item Based Classification.
