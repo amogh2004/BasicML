@@ -15,3 +15,6 @@ Finding all similar movies from a data-set.
 
 #### Movie Recommendations
 Make movie recommendations to a person, based on the movie watched priorly by that person, using Item Based Classification.
+
+#### KNN-Movie-Recc
+Using K-Nearest-Neighbours algorithm for making movie reccomendations in a more effective way.
