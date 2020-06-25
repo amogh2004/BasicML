@@ -18,3 +18,6 @@ Make movie recommendations to a person, based on the movie watched priorly by th
 
 #### KNN-Movie-Recc
 Using K-Nearest-Neighbours algorithm for making movie reccomendations in a more effective way.
+
+#### Shortest Way
+Find the shortest way for a taxi, from an existing point to pickup point and from pickup point to drop point using Q-Learning.
