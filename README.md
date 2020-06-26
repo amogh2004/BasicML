@@ -21,3 +21,6 @@ Using K-Nearest-Neighbours algorithm for making movie reccomendations in a more 
 
 #### Shortest Way
 Find the shortest way for a taxi, from an existing point to pickup point and from pickup point to drop point using Q-Learning.
+
+#### Top Pages
+Cleaning web access log to figure out most viewed pages on a website from it.
