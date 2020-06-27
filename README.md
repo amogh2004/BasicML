@@ -26,7 +26,7 @@ Find the shortest way for a taxi, from an existing point to pickup point and fro
 Cleaning web access log to figure out most viewed pages on a website from it.
 
 ### Spark
-To execute: spark-submit <filename>.py </br>
+To execute: spark-submit <<filename>>.py </br>
 
 #### SparkDecisionTree
 Implementing a decision tree in Spark.
