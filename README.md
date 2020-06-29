@@ -28,8 +28,6 @@ Cleaning web access log to figure out most viewed pages on a website from it.
 ### Spark
 To execute: spark-submit FILENAME.py 
 
-#### SparkDecisionTree
-Implementing a decision tree in Spark.
-
 #### TF-IDF
 You give a word, it tells you which is the best article in wikipedia you can read to learn about that word.
+
