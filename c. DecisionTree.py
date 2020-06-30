@@ -5,7 +5,7 @@ from IPython.display import Image
 from sklearn.externals.six import StringIO  
 import pydotplus
 
-input_file = "PastHires.csv"
+input_file = "files/PastHires.csv"
 df = pd.read_csv(input_file, header = 0)
 
 d = {'Y': 1, 'N': 0}
