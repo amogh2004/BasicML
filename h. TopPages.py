@@ -12,7 +12,7 @@ format_pat= re.compile(
     r'"(?P<user_agent>.*?)"\s*'
 )
 
-logPath = "access_log.txt"
+logPath = "files/access_log.txt"
 
 URLCounts = {}
 
