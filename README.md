@@ -25,6 +25,9 @@ Find the shortest way for a taxi, from an existing point to pickup point and fro
 #### Top Pages
 Cleaning web access log to figure out most viewed pages on a website from it.
 
+#### Sentiment Analysis
+Using RNN with Keras to do sentiment analysis on full-text movie reviews! More info on the dataset is [here](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification).
+
 ### Spark
 To execute: spark-submit FILENAME.py 
 
