@@ -25,12 +25,19 @@ Find the shortest way for a taxi, from an existing point to pickup point and fro
 #### Top Pages
 Cleaning web access log to figure out most viewed pages on a website from it.
 
-#### Sentiment Analysis
-Using RNN with Keras to do sentiment analysis on full-text movie reviews! More info on the dataset is [here](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification).
-
-### Spark
+## Spark
 To execute: spark-submit FILENAME.py 
 
 #### TF-IDF
 You give a word, it tells you which is the best article in wikipedia you can read to learn about that word.
 
+#### Spark Linear Regression
+How to perform linear regression using Spark.
+
+## Keras
+
+#### Sentiment Analysis
+Using RNN with Keras to do sentiment analysis on full-text movie reviews! More info on the dataset is [here](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification).
+
+#### Predict Political Affiliations
+Figuring out political party based on votes alone, using a deep neural network.
