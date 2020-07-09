@@ -1,6 +1,6 @@
 # BasicML
 Simple projects during my self-learning of Machine Learning in Python. 
-#### Except for Spark files, run the other files in Jupyter Notebooks for better results.
+**Except for Spark files, run the other files in Jupyter Notebooks for better results.**
 
 #### Spam-Ham using Naive Bayes Algorithm
 Classfies mails as Spam or Not Spam(Ham).
