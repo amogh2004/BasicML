@@ -37,8 +37,5 @@ How to perform linear regression using Spark.
 
 ## Keras
 
-#### Sentiment Analysis
-Using RNN with Keras to do sentiment analysis on full-text movie reviews! More info on the dataset is [here](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification).
-
 #### Predict Political Affiliations
 Figuring out political party based on votes alone, using a deep neural network.
