@@ -34,8 +34,3 @@ You give a word, it tells you which is the best article in wikipedia you can rea
 
 #### Spark Linear Regression
 How to perform linear regression using Spark.
-
-## Keras
-
-#### Predict Political Affiliations
-Figuring out political party based on votes alone, using a deep neural network.
